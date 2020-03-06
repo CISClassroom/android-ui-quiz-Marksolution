@@ -9,7 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Natanon"></activity>
+        <activity android:name=".S12"></activity>
+        <activity android:name=".s11" />
+        <activity android:name=".S10" />
+        <activity android:name=".S9" />
+        <activity android:name=".S8" />
+        <activity android:name=".S7" />
+        <activity android:name=".S6" />
+        <activity android:name=".Narubate" />
+        <activity android:name=".Natanon" />
         <activity android:name=".Kr_" />
         <activity android:name=".Tan_" />
         <activity android:name=".MainActivity">
